@@ -1,0 +1,11 @@
+{
+    "empleados": {
+        "123": {
+            "id": "123",
+            "nombre": "jhon",
+            "cargo": "Gerente",
+            "salario": 1000000.0,
+            "col de pago": []
+        }
+    }
+}
